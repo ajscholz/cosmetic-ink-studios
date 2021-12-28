@@ -12,7 +12,7 @@ const IndexPage = () => (
       We're in the process of building a new site, so please be patient with us.
     </p>
     <p>
-      For now you can see our work or book an consult on{" "}
+      For now you can see our work or book a consult on our{" "}
       <a
         href="https://www.instagram.com/cosmeticinkstudios/"
         target="_blank"
